@@ -31,8 +31,7 @@ In response to these concerning statistics, we propose the Underground Safety Pr
 By proactively identifying and warning about individuals in the security line, we aim to prevent accidents and enhance the overall safety of subway passengers.
 
 Join us in making subway transportation safer for everyone!
-=======
-# Underground_Project
- 
->>>>>>> parent of 72d51e5 (Metro Project)
 
+## Contact
+
+For questions or feedback regarding this README or topics related to project, please contact *Riyad* at *riyadehmedov03@gmail.com*.
